@@ -35,9 +35,13 @@ https://www.dropbox.com/sh/qw2o1nwin5f1r1n/AADYWtqc18G035ZhuOwr4u5Ea?dl=0
 
 	make
 
-## run:
+## run live webcam demo:
 
 	./thnetsopencvdemo -m <path do directory with model.net>
+
+## run still image demo:
+
+	./thnetsstillsdemo -m <path do directory with model.net>
 
 ## usage:
 
