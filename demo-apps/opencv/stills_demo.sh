@@ -1,0 +1,1 @@
+./thnetsstillsdemo -m ../dataset/
